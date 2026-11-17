@@ -1,0 +1,13 @@
+{
+  "ligant-bench-engines-0.2.0.tgz": {
+    "package": "@ligant/bench-engines",
+    "version": "0.2.0",
+    "modules": { "E10": "0.3.0" },
+    "source_repo": "benchtools-OS/bench-engines",
+    "source_commit": "5ce4afc8a011ea118bdc1e6d28d875a6bc14d0ef",
+    "source_src_tree": "08aa4394bcc8e7b65850ab3bbd31963951f8f93a",
+    "packed_from": "git archive 5ce4afc src package.json LICENSE README.md, then npm pack --ignore-scripts (never the working tree)",
+    "sha256": "c09424e1dea505159691aef3c30c357c7f306e891e69440714ed9aa8b30f0fd2",
+    "entries": 15
+  }
+}
