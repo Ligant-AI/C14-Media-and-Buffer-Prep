@@ -43,8 +43,6 @@ fieldset.question input[type="radio"] { width: 24px; height: 24px; margin: 0; }
 [hidden] { display: none !important; }
 .live { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 
-#card-region { max-height: 60vh; overflow: auto; }
-@media (max-width: 1060px) { #card-region { max-height: none; overflow: visible; } }
 table.card { width: 100%; border-collapse: collapse; font-size: 13px; }
 table.card caption { text-align: left; font-weight: 600; padding: 0 0 8px; }
 table.card th, table.card td { text-align: left; vertical-align: top; padding: 6px 8px; border-bottom: 1px solid var(--grid); }
